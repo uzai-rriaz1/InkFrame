@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import InkFrameLogo from "../logo";
+import InkFrameLogo from "../Logo";
 
 function Footer() {
   return (
