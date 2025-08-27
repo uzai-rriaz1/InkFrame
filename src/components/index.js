@@ -2,7 +2,7 @@ import Header from "./Header/Header.jsx";
 import Footer from "./Footer/Footer.jsx";
 import Container from "./container/container.jsx";
 // import InkFrameLogo from "./Logo";
-import InkFrameLogo from "./logo.jsx";
+import InkFrameLogo from "./Logo.jsx";
 import Logout_Btn from "./Header/logout_btn.jsx";
 import Button from "./Button.jsx";
 import Input from "./Input.jsx";
